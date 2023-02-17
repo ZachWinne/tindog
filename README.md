@@ -1,2 +1,1 @@
-# tindog
-webdev using Bootstrap (css framework)
+TinDog Starting Files
